@@ -4,5 +4,9 @@
   "description": "",
   "main": "index.js",
   "author": "Shuntaro Miwa",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miwashutaro0611/miwa-default-css.git"
+  },
 }
